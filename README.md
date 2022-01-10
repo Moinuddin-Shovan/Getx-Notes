@@ -1,6 +1,6 @@
 # getx_sqflite
 
-A new Flutter project.
+Flutter handy Notebook and Reminder app using Dynamic themes, Flutter Sqflite, Local Notification, Getx along with timezone and other widgets/packages for better UX.
 
 ## Getting Started
 
